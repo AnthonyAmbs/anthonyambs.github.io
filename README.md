@@ -1,4 +1,4 @@
-# anthonyambs.github.io
+# Anthony Ambs
 
 ### Artifact 1: CS 360 Mobile Architecture and Programming Inventory App
 
