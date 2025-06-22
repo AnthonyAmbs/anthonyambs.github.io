@@ -1,5 +1,8 @@
 # Anthony Ambs
 
+### Professional Self-Assessment
+
+I started my Computer Science journey in 2023 and was hooked from the first Introduction to Scripting course. I’ve picked up multiple languages through this program, including Python, Java, JavaScript, C++, C#, and Kotlin. Courses such as Data Structures and Algorithms and Discrete Mathematics have honed my logic and problem-solving abilities. I’ve learned about software development lifecycles, including AGILE methodology, how systems are designed and analyzed, and how software developers collaborate effectively with one another, stakeholders, and end-users. I’ve become familiar with securing software through encryption and secure communications, and testing software using tools such as JUnit and Postman. Through my Mobile Architecture & Programming and Full Stack Development courses, I have created fully functional full-stack and mobile applications.
 
 ### Artifacts Code Review
 
