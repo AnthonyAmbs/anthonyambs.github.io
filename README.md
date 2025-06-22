@@ -3,7 +3,7 @@
 
 ### Artifacts Code Review
 
-https://youtu.be/nShJP5me00w
+[Video link](https://youtu.be/nShJP5me00w)
 
 ### Artifact 1: CS 360 Mobile Architecture and Programming Inventory App
 
