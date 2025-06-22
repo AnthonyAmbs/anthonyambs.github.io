@@ -1,5 +1,10 @@
 # Anthony Ambs
 
+
+### Artifacts Code Review
+
+https://youtu.be/nShJP5me00w
+
 ### Artifact 1: CS 360 Mobile Architecture and Programming Inventory App
 
 [Repository link](https://github.com/AnthonyAmbs/Capstone-Inventory-App)
